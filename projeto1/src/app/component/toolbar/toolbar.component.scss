@@ -22,3 +22,14 @@
 .example-spacer {
   flex: 1 1 auto;
 }
+ul{
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  text-decoration: none;
+  margin: 20px;
+  padding: 0;
+}
+a{
+  padding-right: 20px;
+}
